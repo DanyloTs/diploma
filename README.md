@@ -41,6 +41,7 @@
 
 - Python 3.10 або новіший + pip
 - (Опційно) GPU з підтримкою CUDA для прискорення навчання
+- Завантажений файл відео з гугл диску - https://drive.google.com/file/d/18oDeb_0DYs6k3IoXuDOU1URD6JLfG10k/view?usp=drive_link
 
 ### Клонування репозиторію
 
@@ -48,6 +49,8 @@
 git clone https://github.com/DanyloTs/diploma.git
 cd diploma
 ```
+
+Вставте завантажений файл відео з гугл диску у папку data, якщо не користуєтесь Git
 
 ### Створення віртуального середовища
 
