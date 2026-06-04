@@ -1,5 +1,7 @@
 # Система моніторингу транспортного потоку на основі комп'ютерного зору
 
+[![Release](https://img.shields.io/github/v/release/DanyloTs/diploma)](https://github.com/DanyloTs/diploma/releases/latest)
+
 Дослідження алгоритмів  комп’ютерного зору та глибокого навчання для системи відеоспостереження з розпізнаванням об'єктів та аналізу простору та демонстраційний застосунок розпізнавання транспортного потоку з запису з відеокамери.
 
 ## Автор
@@ -47,6 +49,13 @@
 
 ```bash
 git clone https://github.com/DanyloTs/diploma.git
+cd diploma
+```
+
+Або завантажити версію з релізу [Release 1.0](https://github.com/DanyloTs/diploma/releases/tag/1.0):
+
+```bash
+git clone --branch 1.0 https://github.com/DanyloTs/diploma.git
 cd diploma
 ```
 
